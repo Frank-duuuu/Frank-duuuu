@@ -7,7 +7,8 @@
 
 - 🔭 I’m currently looking for SWE opportunities as a 24 new grad
 - 〽️ Go blue!
-- 🌱 I’m currently learning operating system, distributive system, and EVERYTHING that intrigues me
+- 🤔 I’m currently working on full-stack development as a SDE intern at AWS
+- 🌱 I’m currently learning operating system, distributive system, machine learning, computer vision, and EVERYTHING that intrigues me
 - 💬 Ask me about indie movies 🎥, souls games 🎮, alternative music 🎵   
 - 📫 How to reach me: jinyangd@umich.edu / frankdu0207@gmail.com
 - 😄 Pronouns: He/him/his
