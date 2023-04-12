@@ -5,7 +5,7 @@
 [![Top Langs](https://github-readme-stats-git-master-frank-duuuu.vercel.app/api/top-langs/?username=Frank-duuuu&layout=compact&theme=prussian&langs_count=7#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Langs](https://github-readme-stats-git-master-frank-duuuu.vercel.app/api/top-langs/?username=Frank-duuuu&layout=compact&theme=gruvbox_light&langs_count=7#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-## I'm an Engineer 👨‍💻 , classical pianist 🎹, and a skier 🎿!
+## I'm an Engineer 👨‍💻 , Classical Pianist 🎹, and a Skier 🎿!
 
 - 🔭 I’m currently looking for SWE opportunities as a 24 new grad
 - 〽️ Go blue!
