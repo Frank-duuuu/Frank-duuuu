@@ -1,4 +1,4 @@
-### Hi there, I'm Frank Du👋
+# Hi there, I'm Frank Du👋
 
 [![Frank's GitHub stats-Dark](https://github-readme-stats-git-master-frank-duuuu.vercel.app/api?username=Frank-duuuu&show_icons=true&count_private=true&theme=prussian#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Frank's GitHub stats-Light](https://github-readme-stats-git-master-frank-duuuu.vercel.app/api?username=Frank-duuuu&show_icons=true&count_private=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
