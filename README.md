@@ -10,8 +10,8 @@
 - 🔭 I’m currently looking for SWE opportunities as a 24 new grad
 - 〽️ Go blue!
 - 🤔 I’m currently working on full-stack development as an SDE intern at AWS
-- 🌱 I’m currently learning EVERYTHING that intrigues me (seriously though, am taking EECS 482 operating system now...
-- 💬 Ask me about indie movies 🎥, souls games 🎮, alternative music 🎵   
+- 🌱 I’m currently learning EVERYTHING that intrigues me
+- 💬 Let's talk about indie movies 🎥, souls/horror games 🎮, alternative music 🎵   
 - 📫 How to reach me: jinyangd@umich.edu / frankdu0207@gmail.com
 - 😄 Pronouns: He/him/his
 
