@@ -7,7 +7,7 @@
 
 ## I'm an Engineer 👨‍💻 , Classical Pianist 🎹, and a Skier 🎿!
 
-- 🔭 I’m currently looking for SWE opportunities as a 24 new grad
+- 💳 I will work as an SWE at Stripe starting in June!
 - 〽️ Go blue!
 - 🤔 I worked on full-stack development as an SDE intern at AWS
 - 🌱 I’m currently learning EVERYTHING that intrigues me
