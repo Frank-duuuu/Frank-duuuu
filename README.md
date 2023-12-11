@@ -11,7 +11,7 @@
 - 〽️ Go blue!
 - 🤔 I worked on full-stack development as an SDE intern at AWS
 - 🌱 I’m currently learning EVERYTHING that intrigues me
-- 💬 Let's talk about indie movies 🎥, souls/horror games 🎮, alternative music 🎵   
+- 💬 Let's talk about indie movies 🎥, souls/horror games 🎮, indie music 🎵   
 - 📫 How to reach me: jinyangd@umich.edu / frankdu0207@gmail.com
 - 😄 Pronouns: He/him/his
 
